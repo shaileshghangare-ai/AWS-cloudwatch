@@ -109,11 +109,11 @@ Simple definition: AWS CloudWatch is a service that helps you monitor the health
 
 <img width="1870" height="721" alt="Screenshot 2026-10-27 142426" src="https://github.com/user-attachments/assets/c35f588a-0451-4888-a51e-b24f54738454" />
 
-Step 5: Go to Graphed metrics, click on the bell icon.
+## Step 5: Go to Graphed metrics, click on the bell icon.
 
 <img width="1887" height="391" alt="Screenshot 2026-10-27 142501" src="https://github.com/user-attachments/assets/8266dd85-05f3-4ba3-9371-9733b1eee5ff" />
 
-Step 6: This dashboard shows the components of Amazon CloudWatch such as Namespace, Metric Name, Statistics, etc.
+## Step 6: This dashboard shows the components of Amazon CloudWatch such as Namespace, Metric Name, Statistics, etc.
 
 <img width="1667" height="712" alt="Screenshot 2026-10-27 142535" src="https://github.com/user-attachments/assets/e4b4c41b-fe19-48cb-b46c-c3e2bee135c6" />
 
