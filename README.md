@@ -1,4 +1,4 @@
-# AWS-cloudwatc
+# AWS-cloudwatch
 
 ## Introduction
 
